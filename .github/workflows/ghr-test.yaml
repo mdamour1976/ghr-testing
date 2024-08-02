@@ -8,5 +8,5 @@ jobs:
     runs-on: arc-runner-set
     steps:
     - run: echo "Going to sleep..."
-    - run: sleep 60
+    - run: sleep 600
     - run: echo "Finished sleeping..."
